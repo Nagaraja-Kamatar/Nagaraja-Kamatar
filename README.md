@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nagaraja Kamatar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" scr=https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F126663808259169690%2F&psig=AOvVaw3SDCTH-FEAy9Q4DL_4gYOB&ust=1699370164789000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCX3rnVr4IDFQAAAAAdAAAAABAE>
+<img align="right" alt="coding" width="400" scr=https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F236x%2F91%2F90%2F8a%2F91908ad2f9aef293ed840739a291e9db.jpg&tbnid=RfowwEdsUmphPM&vet=10CA4QxiAoAWoXChMI4JfeudWvggMVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Ftyresswhite%2Fcoding-animations%2F&docid=xJ9wEcoxQNw_YM&w=236&h=236&itg=1&q=coding%20gif&client=firefox-b-d&ved=0CA4QxiAoAWoXChMI4JfeudWvggMVAAAAAB0AAAAAEAc>
+
 
 
 
