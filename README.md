@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nagaraja Kamatar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" scr=https://github.com/Nagaraja-Kamatar/Nagaraja-Kamatar/assets/145822414/686e866b-9415-4ebd-863d-0bada3e6eacd)>
+<img align="right" alt="" width="400" scr=https://github.com/Nagaraja-Kamatar/Nagaraja-Kamatar/assets/145822414/686e866b-9415-4ebd-863d-0bada3e6eacd)>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagaraja-kamatar&label=Profile%20views&color=0e75b6&style=flat" alt="nagaraja-kamatar" /> </p>
 
