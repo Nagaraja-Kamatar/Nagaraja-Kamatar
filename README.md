@@ -1,8 +1,8 @@
-![MasterHead]()
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nagaraja Kamatar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-img align="right" alt="Coding"  width="400" scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfB9CYVlo4buD1ZWtX8JWwmqBBkcbm2pPnpw&usqp=CAU">
+img align="right" alt="Coding"  width="400" scr="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagaraja-kamatar&label=Profile%20views&color=0e75b6&style=flat" alt="nagaraja-kamatar" /> </p>
 
