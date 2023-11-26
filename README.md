@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm  Nagaraja Kamatar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" height="265" width="400" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
+<img align="right" alt="Coding" height="265" width="400" src="[https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif](https://www.lambdatest.com/resources/images/news24.gif)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagaraja-kamata&label=Profile%20views&color=0e75b6&style=flat" alt="nagaraja-kamata" /> </p>
