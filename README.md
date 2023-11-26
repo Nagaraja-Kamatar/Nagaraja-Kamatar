@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" height="265" width="400" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwal-r-h&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal-r-h" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nagaraja-kamata&label=Profile%20views&color=0e75b6&style=flat" alt="nagaraja-kamata" /> </p>
 
 - 🔭 I’m currently working on **Front-End-Development**
 
@@ -24,7 +24,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-r-honnhalli-7aa516280) &nbsp; [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@prajwalhon22979) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__prajwal_r_honnihalli)  &nbsp; [![Geeks for Geeks](https://img.shields.io/badge/GeeksForGeeks-%230077B5.svg?logo=geeks-for-geeks&logoColor=white)](https://www.geeksforgeeks.org/user/prajwalrhonjotw) &nbsp; [![HackerRank](https://img.shields.io/badge/HackerRank-%231DA1F2.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@prajwalrhonniha1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-r-honnhalli-7aa516280) &nbsp; [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@prajwalhon22979) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__prajwal_r_honnihalli)  &nbsp; [![HackerRank](https://img.shields.io/badge/HackerRank-%231DA1F2.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@prajwalrhonniha1)
 
 
 
@@ -33,9 +33,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nagaraja-kamata&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-readme-streak-stats.herokuapp.com/?usernagaraja-kamata=prajwal-r-h&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?usernagaraja-kamata=nagaraja-kamatatheme=dark&hide_border=false)<br/><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-readme-stats.vercel.app/api?username=nagaraja-kamata&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-
-<
 
