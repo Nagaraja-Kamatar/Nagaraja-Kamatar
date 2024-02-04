@@ -7,6 +7,7 @@
 
 
 - 🌱 I’m currently learning *Full Stack Web Development*
+- 🌱 I’m currently learning *Android Development*
 
 - 💬 Ask me about *HTML,CSS and JavaScript*
 
