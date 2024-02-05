@@ -27,7 +27,7 @@
 # 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagaraja-Kamatar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nagaraja-Kamatar&theme=dark&hide_border=false)<br/><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-readme-stats.vercel.app/api?username=Nagaraja-Kamatar&theme=dark&hide_border=false&include_all_commits=true&count_private=false) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
