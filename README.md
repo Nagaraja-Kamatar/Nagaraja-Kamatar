@@ -33,3 +33,7 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ![Nagaraja-Kamatar GitHub Status](https://github-readme-stats.vercel.app/api?username=Nagaraja-Kamatar&show_icons=true&theme=merko)
+
+
+<a href="https://github.com/Nagaraja-Kamatar"><img alt="Nagaraja-Kamatar" src="https://github-readme-activity-graph.vercel.app/graph?username=Nagaraja-Kamatar&bg_color=000000&color=ae9f37&line=578e62&point=137000&area=true&hide_border=true" /></a>
+
