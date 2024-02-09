@@ -16,7 +16,12 @@
 - ⚡ Fun fact *I am Funny*
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagaraja-kamatar-317147239) &nbsp; [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mr_Nagaraj2) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_nagaraj_kamatar/)  &nbsp; [![HackerRank](https://img.shields.io/badge/HackerRank-%231DA1F2.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mr_nagarajakama1?hr_r=1)
+
+<p align="left">
+<a href="https://twitter.com/Mr_Nagaraj2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nagaraja-kamatar-317147239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshmi_hadi" height="30" width="40" /></a>
+</p>
 
 
 
