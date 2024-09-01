@@ -4,7 +4,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Coding" width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sangameshpk-2003&label=Profile%20views&color=0e75b6&style=flat" alt="nagaraj" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangameshpk-2003&label=Profile%20views&color=0e75b6&style=flat" alt="nagaraj" /> </p>
 
 - 🌱 I’m currently learning *Full Stack Web Development*
 - 🌱 I’m currently learning *Android Development*
