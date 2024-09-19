@@ -12,7 +12,7 @@
 
 - 📫 How to reach me *nagarajakamatar24@gmail.com*
 
-- ⚡ Fun fact *I am Funny*
+
 
 ## 🌐 Socials:
 
