@@ -61,21 +61,25 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagaraja-Kamatar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nagaraja-Kamatar&theme=dark&hide_border=false" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nagaraja-Kamatar&show_icons=true&theme=merko" />
-</p>
+
+
+## Current GitHub Stats 📊
+![Stats](https://github-readme-stats.vercel.app/api?username=Nagaraja-Kamatar&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagaraja-Kamatar&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
+
+## GitHub Streaks 🔥
+![Streaks](https://nirzak-streak-stats.vercel.app/?user=Nagaraja-Kamatar&theme=jolly&date_format=j%20M%5B%20Y%5D)
+
+
+
 
 ---
 
 ## 🚀 Activity Graph
 <p align="center">
   <a href="https://github.com/Nagaraja-Kamatar"><img alt="Nagaraja-Kamatar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Nagaraja-Kamatar&bg_color=000000&color=ae9f37&line=578e62&point=137000&area=true&hide_border=true" /></a>
-</p>
+</p
 
 ---
 
@@ -84,9 +88,11 @@
 
 ---
 
-<!-- Animated Section Divider -->
+### Thanks for Visiting my GitHub Profile!
+
+---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+<img src="https://github.com/Nagaraja-Kamatar/Nagagraja-Kamatar/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-<p align="center">Thanks for visiting my profile! 😊 Keep coding & keep learning! 🚀</p>
+[![](https://visitcountpro.netlify.app/api?id=Nagaraja-Kamatar&pretty=true)](https://visitcount.itsvg.in)
